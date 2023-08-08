@@ -37,8 +37,8 @@
                     <configuration>
                         <verbose>true</verbose>
                         <fork>true</fork>
-                        <source>${java.version}</source>
-                        <target>${java.version}</target>
+                        <source>11.0.20</source>
+                        <target>11.0.20</target>
                     </configuration>
                 </plugin>
                 <plugin>
